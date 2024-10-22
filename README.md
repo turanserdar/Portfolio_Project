@@ -58,3 +58,10 @@ For any inquiries or feedback, please feel free to reach out:
 
 - **Email:** [turanserdar@outlook.com.tr](mailto:turanserdar@outlook.com.tr)
 - **GitHub Profile:** [github.com/turanserdar](https://github.com/turanserdar)
+
+## Preview:
+
+![Udemig_software](https://github.com/user-attachments/assets/ea624138-11b2-4dad-8ec2-ac9685e60149)
+
+
+
